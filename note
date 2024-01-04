@@ -1,0 +1,5 @@
+Shape: 100, 3, 3, 160, 160
+
+onnx: 2.661s
+quant: 6.478s
+iresnetv1: 9.676s
